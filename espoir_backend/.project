@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>espoir</name>
+=======
+	<name>espoir_backend</name>
+>>>>>>> b7b24de79da6f328acf6602a1d8bd4012bb79b42
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +20,11 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.springframework.ide.eclipse.core.springbuilder</name>
+=======
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+>>>>>>> b7b24de79da6f328acf6602a1d8bd4012bb79b42
 			<arguments>
 			</arguments>
 		</buildCommand>
@@ -26,7 +34,11 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.m2e.core.maven2Builder</name>
+=======
+			<name>org.springframework.ide.eclipse.core.springbuilder</name>
+>>>>>>> b7b24de79da6f328acf6602a1d8bd4012bb79b42
 			<arguments>
 			</arguments>
 		</buildCommand>
